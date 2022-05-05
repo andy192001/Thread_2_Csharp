@@ -1,0 +1,7 @@
+D:\Rider\Paral_2_Csharp\Paral_2_Csharp\obj\Debug\Paral_2_Csharp.csproj.AssemblyReference.cache
+D:\Rider\Paral_2_Csharp\Paral_2_Csharp\obj\Debug\Paral_2_Csharp.csproj.SuggestedBindingRedirects.cache
+D:\Rider\Paral_2_Csharp\Paral_2_Csharp\obj\Debug\Paral_2_Csharp.csproj.CoreCompileInputs.cache
+D:\Rider\Paral_2_Csharp\Paral_2_Csharp\bin\Debug\Paral_2_Csharp.exe
+D:\Rider\Paral_2_Csharp\Paral_2_Csharp\bin\Debug\Paral_2_Csharp.pdb
+D:\Rider\Paral_2_Csharp\Paral_2_Csharp\obj\Debug\Paral_2_Csharp.exe
+D:\Rider\Paral_2_Csharp\Paral_2_Csharp\obj\Debug\Paral_2_Csharp.pdb
