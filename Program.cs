@@ -76,16 +76,16 @@ namespace Paral_2_Csharp
             public int FinishIndex { get; set; }
         }
 
-        private readonly object lockerForSum = new object();
+        private readonly object lockerForMin = new object();
         private void StarterThread(object param)
         {
             if (param is Bound)
             {
-                long sum = PartMin((param as Bound).StartIndex, (param as Bound).FinishIndex);
+                long min = PartMin((param as Bound).StartIndex, (param as Bound).FinishIndex);
 
-                lock (lockerForSum)
+                lock (lockerForMin)
                 {
-                    CollectMin(sum);
+                    CollectMin(min);
                 }
                 IncThreadCount();
             }
