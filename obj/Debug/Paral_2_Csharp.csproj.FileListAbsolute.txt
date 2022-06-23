@@ -5,3 +5,10 @@ D:\Rider\Paral_2_Csharp\Paral_2_Csharp\bin\Debug\Paral_2_Csharp.exe
 D:\Rider\Paral_2_Csharp\Paral_2_Csharp\bin\Debug\Paral_2_Csharp.pdb
 D:\Rider\Paral_2_Csharp\Paral_2_Csharp\obj\Debug\Paral_2_Csharp.exe
 D:\Rider\Paral_2_Csharp\Paral_2_Csharp\obj\Debug\Paral_2_Csharp.pdb
+C:\Users\Andrew\Source\Repos\Thread_2_Csharp\bin\Debug\Paral_2_Csharp.exe
+C:\Users\Andrew\Source\Repos\Thread_2_Csharp\bin\Debug\Paral_2_Csharp.pdb
+C:\Users\Andrew\Source\Repos\Thread_2_Csharp\obj\Debug\Paral_2_Csharp.csproj.AssemblyReference.cache
+C:\Users\Andrew\Source\Repos\Thread_2_Csharp\obj\Debug\Paral_2_Csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrew\Source\Repos\Thread_2_Csharp\obj\Debug\Paral_2_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Source\Repos\Thread_2_Csharp\obj\Debug\Paral_2_Csharp.exe
+C:\Users\Andrew\Source\Repos\Thread_2_Csharp\obj\Debug\Paral_2_Csharp.pdb
